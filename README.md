@@ -1,4 +1,4 @@
-In un veicolo convenzionale, la richiesta del conducente viene soddisfatta dall'unico dispositivo meccanico di generazione dell'energia disponibile, ossia l'ICE.
+In un veicolo convenzionale, la richiesta del conducente viene soddisfatta dall'unica fonte di energia disponibile, ossia il motore a combustione (ICE).
 Negli HEVs è necessario prendere un'ulteriore decisione su come distribuire la richiesta di potenza del conducente tra le diverse sorgenti di energia disponibili. È quindi necessaria una strategia di gestione dell'energia (EMS) per determinare la ripartizione della potenza in ogni istante.
 
 Questo lavoro é incentrato sull’ottimizzazione del flusso di potenza tra le fonti energetiche (ICE ed EM), che costituiscono il powertrain di un HEV con architettura parallela, su un orizzonte definito.
