@@ -1,4 +1,4 @@
-# Energy-Flow-Optimal-Control-Parallel-HEV
+# Energy flow optimal control for parallel HEVs
 
 ## English Version
 In a conventional vehicle, the driver's power demand is met by the only available energy source, the combustion engine (ICE). In HEVs, a further decision must be made regarding how to distribute the driver's power demand among the various available energy sources. Therefore, an energy management strategy (EMS) is required to determine the power distribution at any given time.
